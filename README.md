@@ -50,7 +50,11 @@ To run simply run each of the assignement files using the python command in term
 
 ## References
 https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnd2NzY2kzOTA3NjkwN2ZhbGwxNnxneDozMWY1MzcxZWJhYzFiYzA
+
 https://web.stanford.edu/class/cs124/lec/languagemodeling.pdf
+
 http://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf
+
 http://www.cs.cornell.edu/courses/cs474/2005fa/Handouts/n-grams+smoothing.pdf
+
 https://www.cs.cmu.edu/~roni/papers/scalable-TR-96-139.pdf
