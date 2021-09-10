@@ -1,6 +1,6 @@
 # NLP-NGram-Modeling
 Ari Boyarsky
-ariboyarsky@gwu.edu
+
 
 This repo holds an example of NGram modeling for language detection. 
 
