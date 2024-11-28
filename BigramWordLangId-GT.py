@@ -1,6 +1,5 @@
 # word bigram model
 # By Ari Boyarsky
-# ariboyarsky@gwu.edu
 
 # Imports
 import math
