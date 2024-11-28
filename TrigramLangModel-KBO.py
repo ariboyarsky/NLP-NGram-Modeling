@@ -1,7 +1,6 @@
 __author__ = 'ariboyarsky'
 # word trigram model
 # By Ari Boyarsky
-# ariboyarsky@gwu.edu
 
 # Imports
 import math
