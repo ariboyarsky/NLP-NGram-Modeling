@@ -1,6 +1,5 @@
 # This file will contain functions that are useful in NGram Language Modeling
 # By Ari Boyarsky
-# ariboyarsky@gwu.edu
 
 
 # Imports
